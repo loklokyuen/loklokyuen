@@ -4,12 +4,13 @@ I’m a full-stack software developer with a foundation in JavaScript, TypeScrip
 ## 🔧 Technical Skills
 
 - **Languages:** JavaScript (Node.js, browsers), TypeScript, Python (basic)  
-- **Front-end:** HTML, CSS, React, Tailwind CSS, React Router, Vite, Angular, Axios  
+- **Front-end:** HTML, CSS, React, React Native, Tailwind CSS, React Router, Vite, Angular, Axios  
 - **Back-end:** Node.js, Express.js, RESTful APIs  
-- **Databases:** SQL (PostgreSQL), Database Seeding & Migrations
-- **Mobile:** Ionic Framework, Apache Cordova  
+- **Databases (SQL):** PostgreSQL, Database Seeding & Migrations
+- **Databases (NoSQL):** Firebase Firestore
+- **Mobile:** Ionic Framework, Apache Cordova, React Native (Expo)
 - **Testing:** TDD, Jest, Supertest (unit & integration testing)  
-- **Tools & Practices:** Git, GitHub, GitHub Actions, Supabase, Render, Netlify, Agile, Scrum, SDLC
+- **Tools & Practices:** Git, GitHub, GitHub Actions, Supabase, Render, Netlify, Firebase (Authentication), Agile, Scrum, SDLC
 
 ## 📫 Let’s Connect
 
