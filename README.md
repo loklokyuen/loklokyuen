@@ -1,4 +1,4 @@
-# Hi I'm Melody Yuen 👋
+# Hi I'm Melody 👋
 I’m a full-stack software developer with a foundation in JavaScript, TypeScript, and modern web technologies. After a career break, I’ve sharpened my skills through a rigorous JavaScript bootcamp (completed March 2025) and am eager to build impactful, well-tested solutions.
 
 ## 🔧 Technical Skills
