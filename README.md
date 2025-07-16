@@ -3,7 +3,7 @@ I’m a full-stack software developer with a foundation in JavaScript, TypeScrip
 
 ## 🔧 Technical Skills
 
-- **Languages:** JavaScript (Node.js, browsers), TypeScript, Python (basic)  
+- **Languages:** JavaScript (Node.js, browsers), TypeScript, Python (basic), C#
 - **Front-end:** HTML, CSS, React, React Native, Tailwind CSS, React Router, Vite, Angular, Axios  
 - **Back-end:** Node.js, Express.js, RESTful APIs  
 - **Databases (SQL):** PostgreSQL, Database Seeding & Migrations
